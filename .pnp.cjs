@@ -42,6 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-router-dom", "virtual:300f4b61e4e103f05d2afaaf5f479a76a325f264c4d22421e6ed4a3e97b5ecb231e588fd19ecd5ba110dc7c776f5805442eca3c05141d479bbb5a23d6126ca20#npm:6.15.0"],\
             ["react-scripts", "virtual:300f4b61e4e103f05d2afaaf5f479a76a325f264c4d22421e6ed4a3e97b5ecb231e588fd19ecd5ba110dc7c776f5805442eca3c05141d479bbb5a23d6126ca20#npm:5.0.1"],\
             ["tailwindcss", "npm:3.3.3"],\
+            ["timeago.js", "npm:4.0.2"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
           "linkType": "SOFT"\
@@ -9235,6 +9236,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-router-dom", "virtual:300f4b61e4e103f05d2afaaf5f479a76a325f264c4d22421e6ed4a3e97b5ecb231e588fd19ecd5ba110dc7c776f5805442eca3c05141d479bbb5a23d6126ca20#npm:6.15.0"],\
             ["react-scripts", "virtual:300f4b61e4e103f05d2afaaf5f479a76a325f264c4d22421e6ed4a3e97b5ecb231e588fd19ecd5ba110dc7c776f5805442eca3c05141d479bbb5a23d6126ca20#npm:5.0.1"],\
             ["tailwindcss", "npm:3.3.3"],\
+            ["timeago.js", "npm:4.0.2"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
           "linkType": "SOFT"\
@@ -17197,6 +17199,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/thunky-npm-1.1.0-2d25531f44-993096c472.zip/node_modules/thunky/",\
           "packageDependencies": [\
             ["thunky", "npm:1.1.0"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
+      ["timeago.js", [\
+        ["npm:4.0.2", {\
+          "packageLocation": "./.yarn/cache/timeago.js-npm-4.0.2-e87d64f9a3-c785a06988.zip/node_modules/timeago.js/",\
+          "packageDependencies": [\
+            ["timeago.js", "npm:4.0.2"]\
           ],\
           "linkType": "HARD"\
         }]\

@@ -8,7 +8,7 @@ export default function SearchBar() {
   const handleUpdate = (e) => setText(e.target.value);
   return (
     <>
-      <header className="w-full flex items-center justify-between p-4 sticky top-0 border-b border-gray-100 mb-4">
+      <header className="w-full flex items-center justify-between p-4 sticky top-0 border-b border-gray-100 mb-4 bg-white">
         <div id="start" className="flex items-center transform translate-x-4">
           <VscMenu className="text-xl" />
           <Link to="/" className="flex items-center transform translate-x-6">
